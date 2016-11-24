@@ -53,6 +53,7 @@ sudo zypper install -y djvulibre-djview4
 sudo zypper install -y unrar
 sudo zypper install -y dd_rescue
 sudo zypper install -y pdfmod
+sudo zypper install -y unetbootin
 #sudo zypper install -y foremost
 
 sudo zypper install -y cmake
